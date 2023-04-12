@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/@vshivamjaiswal" target="blank"><img src="https://img.shields.io/twitter/follow/@vshivamjaiswal?logo=twitter&style=for-the-badge" alt="@vshivamjaiswal" /></a> </p>
 
-- 🌱 I’m currently learning **Django , Flask**
+- 🌱 I’m currently learning **Javscript , Python**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **React , Node.js ,Angular**
 
 - 📫 How to reach me **shivamjaiswal2200@gmail.com**
 
