@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **React , Node.js ,Angular**
 
-- 📫 How to reach me **shivamjaiswal2200@gmail.com**
+- 📫 How to reach me **shivamjaiswal2200@gmail.com https://shivamjaiswalportfolio.netlify.app/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
